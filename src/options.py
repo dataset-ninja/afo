@@ -18,8 +18,8 @@ POSTER_TITLE: str = None
 
 ###############################################################
 #### * Set up visualization params for HorizontalGrid class ###
-HORIZONTAL_GRID_ROWS: int = 2
-HORIZONTAL_GRID_COLS: int = 4
+HORIZONTAL_GRID_ROWS: int = 1
+HORIZONTAL_GRID_COLS: int = 2
 HORIZONTAL_GRID_IS_DETECTION_TASK: bool = IS_DETECTION_TASK
 ###############################################################
 
