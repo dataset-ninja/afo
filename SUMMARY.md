@@ -6,6 +6,6 @@ Each class belongs to one of three dataset versions (depending on the goal of th
 
 Images in the AFO dataset have bounding box annotations. There are 728 (20% of the total) unlabeled images (i.e. without annotations). There are 3 splits in the dataset: *test* (514 images), *train* (2787 images), and *validation* (339 images). The dataset was released in 2021 by the [AGH University of Science and Technology, Poland](https://www.agh.edu.pl/en/).
 
-Here are the visualized examples for each of the 9 classes:
+Here is the visualized example grid with annotations:
 
-[Dataset classes](https://github.com/dataset-ninja/afo/raw/main/visualizations/classes_preview.webm)
+<img src="https://github.com/dataset-ninja/afo/raw/main/visualizations/horizontal_grid.png">
