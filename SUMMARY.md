@@ -1,4 +1,4 @@
-**AFO: Aerial Dataset of Floating Objects** is a dataset for object detection tasks. It is used in the security industry.
+**AFO: Aerial Dataset of Floating Objects** is a dataset for object detection tasks. It is used in the Search and Rescue (SAR) industry.
 
 The dataset consists of 3640 images with 119973 labeled objects belonging to 9 different classes including *object*, *small_obj*, *human*, and other: *large_obj*, *wind/sup-board*, *kayak*, *boat*, *bouy*, and *sailboat*.
 
