@@ -12,7 +12,7 @@ PROJECT_NAME_FULL: str = "AFO: Aerial Dataset of Floating Objects"
 # * After uploading to instance ##
 ##################################
 LICENSE: License = License.CC_BY_NC_SA_3_0_IGO()
-INDUSTRIES: List[Industry] = [Industry.Security()]
+INDUSTRIES: List[Industry] = [Industry.SearchAndRescue()]
 CV_TASKS: List[CVTask] = [CVTask.ObjectDetection()]
 ANNOTATION_TYPES: List[AnnotationType] = [AnnotationType.ObjectDetection()]
 
