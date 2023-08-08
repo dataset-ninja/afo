@@ -21,7 +21,7 @@ PROJECT_NAME_FULL: str = "AFO: Aerial Dataset of Floating Objects"
 ##################################
 LICENSE: License = License.CC_BY_NC_SA_3_0_IGO()
 APPLICATIONS: List[Union[Industry, Domain, Research]] = [Industry.SearchAndRescue()]
-CATEGORY: Category = Category.Safety()
+CATEGORY: Category = Category.Safety(extra=[Category.Aerial(), Category.Drones()])
 
 CV_TASKS: List[CVTask] = [CVTask.ObjectDetection()]
 ANNOTATION_TYPES: List[AnnotationType] = [AnnotationType.ObjectDetection()]
