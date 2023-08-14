@@ -15,6 +15,8 @@ from dataset_tools.templates import (
 ##################################
 PROJECT_NAME: str = "AFO"
 PROJECT_NAME_FULL: str = "AFO: Aerial Dataset of Floating Objects"
+HIDE_DATASET = False  # set False when 100% sure about repo quality
+
 
 ##################################
 # * After uploading to instance ##
