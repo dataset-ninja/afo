@@ -1,6 +1,6 @@
 Dataset **AFO** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/f/8/g3/SEaE1EacQQqm0Wu0aBB2l1Z1WC3ZZUBLllBgGkFwwJ4qUut9arhTrWZ1dLZ16w1f9NK8opXflCLt61qbbdq0T2szVtPIRVxoz6cUa9WnGZb2AIUiGpNT37DSCGbZ.tar)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/7/L/Hx/XYPGTUNbEnfBYcL2U7eZaHExz8m09CxPgnZnWMuLCc5D5IgIwX9j7B5V58zUvfKmaU0x8Teyo5t9lDhYoFqHyANcbufhM6RarRMPR1XFDyofQyssgmyn8QQuLbtu.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
