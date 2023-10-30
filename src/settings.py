@@ -70,6 +70,7 @@ CITATION_URL: Optional[
     str
 ] = "https://www.kaggle.com/datasets/jangsienicajzkowy/afo-aerial-dataset-of-floating-objects"
 AUTHORS: Optional[List[str]] = ["Gąsienica-Józkowy, Jan", "Knapik, Mateusz", "Cyganek, Boguslaw"]
+AUTHORS_CONTACTS: Optional[List[str]] = ["jgjozkowy@gmail.com"]
 
 ORGANIZATION_NAME: Optional[
     Union[str, List[str]]
@@ -119,6 +120,7 @@ def get_settings():
     settings["paper"] = PAPER
     settings["citation_url"] = CITATION_URL
     settings["authors"] = AUTHORS
+    settings["authors_contacts"] = AUTHORS_CONTACTS
     settings["organization_name"] = ORGANIZATION_NAME
     settings["organization_url"] = ORGANIZATION_URL
     settings["slytagsplit"] = SLYTAGSPLIT
